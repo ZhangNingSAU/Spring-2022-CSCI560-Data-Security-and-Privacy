@@ -64,6 +64,6 @@
  	c. 	Leading<br>
  	d. 	Strategy<br>
   
-  14. Explain the differences between a leader and a manager.(15 points)<br>
+  14. Explain the differences between a leader and a manager.(20 points)<br>
 
-  15. What are the three distinct groups of decision makers or communities of interest on an information security team? (10 points)<br>
+  15. What are the three distinct groups of decision makers or communities of interest on an information security team? (15 points)<br>
