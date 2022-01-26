@@ -8,7 +8,8 @@
   - Introduction
   - Literature search
   - Literature analysis
-  - summayr/future work
+  - Summary/Future work
+  - References
 + At least 7-8 pages.
 
 ## Midterm exam
