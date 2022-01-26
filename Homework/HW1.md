@@ -67,3 +67,8 @@
   14. Explain the differences between a leader and a manager.(20 points)<br>
 
   15. What are the three distinct groups of decision makers or communities of interest on an information security team? (15 points)<br>
+
+# Step 1: complete Questions 1 - 15
+# Step 2: Save the answers in a PDF file, name it according to the requirement in the syllabus. 
++ For example, you can name it as CSCI560_Homework1_JohnDoe(0123456).pdf, where 0123456 is your BeeCard number.
+# Step 3: Submit the PDF file on [Blackboard](https://blackboard.sau.edu/)
