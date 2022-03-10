@@ -19,3 +19,29 @@
 ## Final exam
 + Paper submission
 + A 10 minutes presentation(you need to prepare PowerPoints or other slides)
+
+
+## Topics
+
+ + Brisa 
+
+ + Thomas
+
+ + Daniel
+  - Types of Data Protection
+
+ + Mitchell
+  - best practices for data security
+
+ + Matthew
+
+ + Issa
+  - Big data in healthcare and privacy issues.
+
+ + Justin
+
+ + Kolade
+
+ + Reed
+
+ 
