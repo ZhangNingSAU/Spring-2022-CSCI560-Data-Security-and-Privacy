@@ -23,25 +23,25 @@
 
 ## Topics
 
- + Brisa 
++ Brisa 
 
- + Thomas
++ Thomas
 
- + Daniel
++ Daniel
   - Types of Data Protection
 
- + Mitchell
++ Mitchell
   - best practices for data security
 
- + Matthew
++ Matthew
 
- + Issa
++ Issa
   - Big data in healthcare and privacy issues.
 
- + Justin
++ Justin
 
- + Kolade
++ Kolade
 
- + Reed
++ Reed
 
  
