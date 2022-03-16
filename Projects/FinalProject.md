@@ -34,6 +34,7 @@
   - best practices for data security
 
 + Matthew
+  - Types of Threats to Information Security
 
 + Issa
   - Big data in healthcare and privacy issues.
