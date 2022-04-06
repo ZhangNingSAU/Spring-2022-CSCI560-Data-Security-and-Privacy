@@ -1,6 +1,6 @@
 # CSCI560 Spring 2022
 # Homework 6
-# Due: 23:59pm 03/16/2022
+# Due: 23:59pm 04/06/2022
 
 1.  Having an established risk management program means that an organization's assets are completely protected.(5 points)<br>
  	a. 	True<br>
