@@ -1,6 +1,6 @@
 # CSCI560 Spring 2022
 # Homework 7
-# Due: 23:59pm 04/14/2022
+# Due: 23:59pm 04/13/2022
 
 1.  Risks can be avoided by countering the threats facing an asset or by eliminating the exposure of an asset.(5 points)<br>
  	a. 	True<br>
