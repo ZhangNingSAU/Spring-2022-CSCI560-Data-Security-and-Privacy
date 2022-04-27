@@ -1,6 +1,6 @@
 # CSCI560 Spring 2022
 # Homework 8
-# Due: 23:59pm 04/20/2022
+# Due: 23:59pm 04/27/2022
 
 1.  In information security, a security blueprint is a framework or security model customized to an organization, including implementation details..(5 points)<br>
  	a. 	True<br>
