@@ -85,5 +85,5 @@ derive measurement data.<br>
   
 # Step 1: complete Questions 1 - 18
 # Step 2: Save the answers in a PDF file, name it according to the requirement in the syllabus. 
-+ For example, you can name it as CSCI560_Homework8_JohnDoe(0123456).pdf, where 0123456 is your BeeCard number.
++ For example, you can name it as CSCI560_Homework9_JohnDoe(0123456).pdf, where 0123456 is your BeeCard number.
 # Step 3: Submit the PDF file on [Blackboard](https://blackboard.sau.edu/)
